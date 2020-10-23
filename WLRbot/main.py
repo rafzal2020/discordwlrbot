@@ -91,4 +91,4 @@ async def poi(ctx):
 
 
 
-client.run("NzY4ODU4MDI0ODAxODYxNjMy.X5Gk1Q.9r9RDnZo4H5L7qtTiO8T31nF8g0")
+client.run("TOKEN")
