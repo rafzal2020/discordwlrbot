@@ -1,0 +1,12 @@
+These are the following commands you can use:
+!wlr - Tells you how many days have passed since Whole Lotta Red was announced.
+
+!add (song link) or !as - Add a song to the list of songs
+
+!queue or !q - Tells you all the songs in the list.
+
+!sotd or !s - Tells you the song of the day
+
+!clear or !c - Clears the list of songs.
+
+!howmany or !hm - Tells you the AMOUNT of songs in the list
